@@ -623,10 +623,10 @@ section {
   opacity: 1;
 }
 
-.portfolio .portfolio-wrap:hover .portfolio-links {
+/* .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Details
